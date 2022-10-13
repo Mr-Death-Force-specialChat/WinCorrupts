@@ -12,6 +12,6 @@ and for **DON'T _FUCKING DARE TO_ MODIFY THE EXISTING SCRIPTS**. add versions no
 
 # Database browser
 
-| Location | Description_?_ |
+| Location | Description<i>?<i/> |
 | :------: | :------------: |
 | [Host/](https://github.com/Mr-Death-Force-specialChat/WinCorrupts) | Nothing... |
